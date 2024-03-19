@@ -1,0 +1,18 @@
+.wineAndDineContainer {
+    width: 1408px !important;
+    margin-top: 140px !important;
+    margin: auto;
+}
+
+.wineAndDineCardContainer {
+    margin-top: 60px !important;
+}
+
+.wineSecondRow {
+    margin-top: 40px !important;
+}
+
+.alignRightFirst {
+    display: flex;
+    justify-content: flex-end;
+}

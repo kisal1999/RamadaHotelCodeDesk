@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond&display=swap');
+
+.offerMainContainer {
+    margin-top: 160px;
+}
+
+.mainContainerOffers {
+    width: 1408px !important;
+    height: 630px;
+    margin: auto;
+    box-shadow: 0 4px 8px 0 rgba(255, 113, 113, 0.2), 0 6px 20px 0 rgba(245, 85, 85, 0.19) !important;
+}
+
+.offerTopic {
+    font-family: 'Cormorant Garamond', serif;
+    font-weight: 700;
+    font-size: 26px;
+    color: #D11242;
+    text-align: center;
+}
+
+.offePercentage {
+    font-family: 'Cormorant Garamond', serif;
+    font-weight: 700;
+    font-size: 63px;
+    color: #585858;
+    text-align: center;
+}
+
+.offerText {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 300;
+    font-size: 16px;
+    color: #000000;
+    text-align: center !important;
+    width: 808px;
+    margin: auto;
+}
+
+.buttonDiv {
+    text-align: center;
+}
+
+.getNowButton {
+    background-color: #D11242 !important;
+    border: 1px solid #D11242 !important;
+    color: white !important;
+    font-family: 'Cormorant Garamond', serif !important;
+    font-size: 26px !important;
+    font-weight: 700 !important;
+    text-transform: none !important;
+    margin: auto !important;
+    padding-left: 35px !important;
+    padding-right: 35px !important;
+}

@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond&display=swap');
+
+.testimonialCarousel {
+    width: 100%;
+    margin: 0 auto;
+}
+
+.testimonial {
+    text-align: center;
+    padding: 20px;
+}
+
+.author {
+    font-weight: 700;
+    font-size: 26px;
+    font-family: 'Cormorant Garamond', serif !important;
+}
+
+.testimonialSlide {
+    text-align: center;
+    border: 3px solid #D11242;
+    border-radius: 100px 100px 100px 0;
+    width: 447px;
+    height: 425px;
+    padding-top: 50px;
+}
+
+.testimonial {
+    padding: 20px;
+}
+
+.personImageTesti {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    margin: 0 auto 10px;
+}
+
+.slick-slide {
+    margin: 0 30px;
+}

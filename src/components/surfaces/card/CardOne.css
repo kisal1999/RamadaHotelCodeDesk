@@ -1,0 +1,49 @@
+.wholeCard {
+    width: 328px;
+    margin-bottom: 10px;
+}
+
+.imageHeight {
+    height: 211px;
+    width: 305px;
+}
+
+.insideCard {
+    padding: 10px;
+    box-shadow:  0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19) !important;
+}
+
+.cardMainTopic {
+    font-family: 'Cormorant Garamond', serif !important;
+    font-size: 22px !important;
+    font-weight: 700 !important;
+    text-align: center;
+}
+
+.liAcc li {
+    font-family: 'Open Sans', sans-serif !important;
+    font-size: 16px;
+    font-weight: 300;
+}
+
+.exploreButton {
+    width: 100%;
+    background-color: white !important;
+    border: 1px solid #D11242 !important;
+    color: #D11242 !important;
+    font-family: 'Cormorant Garamond', serif !important;
+    font-size: 18px !important;
+    font-weight: 700 !important;
+    text-transform: none !important;
+}
+
+.bookNowButton {
+    width: 100%;
+    background-color: #D11242 !important;
+    border: 1px solid #D11242 !important;
+    color: white !important;
+    font-family: 'Cormorant Garamond', serif !important;
+    font-size: 18px !important;
+    font-weight: 700 !important;
+    text-transform: none !important;
+}

@@ -1,0 +1,25 @@
+.galleryContainer {
+    width: 1408px !important;
+    margin-top: 140px !important;
+    margin: auto;
+}
+
+.image-gallery-container {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 20px;
+}
+
+.facilityGalleryImages{
+    margin-top: 60px !important;
+}
+
+.image-item {
+    width: 100%;
+    height: 100%;
+}
+
+.image-item img {
+    width: 100%;
+    display: block;
+}

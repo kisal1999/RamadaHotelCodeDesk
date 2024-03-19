@@ -1,0 +1,36 @@
+.wholeCardBanquet {
+    width: 447px;
+}
+
+.imageHeightBanquet {
+    height: 357px;
+    width: 447px;
+}
+
+.insideCardBanquet {
+    padding: 10px;
+    box-shadow:  none !important;
+}
+
+.cardMainTopicBanquet {
+    font-family: 'Cormorant Garamond', serif !important;
+    font-size: 36px !important;
+    font-weight: 700 !important;
+    text-align: center;
+}
+
+.liBanq li {
+    font-family: 'Open Sans', sans-serif !important;
+    font-size: 16px;
+    font-weight: 300;
+}
+
+.learnMoreButton {
+    width: 100%;
+    background-color: white !important;
+    color: #D11242 !important;
+    font-family: 'Cormorant Garamond', serif !important;
+    font-size: 18px !important;
+    font-weight: 700 !important;
+    text-transform: none !important;
+}

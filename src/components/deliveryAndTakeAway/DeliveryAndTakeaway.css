@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond&display=swap');
+
+.deliveryTakeawayContainer {
+    width: 1408px !important;
+    margin-top: 140px !important;
+    margin: auto;
+}
+
+.deliveryTakeawayText {
+    font-family: 'Open Sans', sans-serif;
+    color: #000000;
+    font-size: 16px;
+    font-weight: 300;
+}
+
+.deliveryTakeawayBoldText{
+    font-family: 'Open Sans', sans-serif;
+    color: #000000;
+    font-size: 16px;
+    font-weight: 700;
+}
+
+.deliveryTakeawayImage {
+    width: 567px;
+    height: 615px;
+}
+
+.deliveryTakeawayStyle {
+    display: flex;
+    justify-content: center;
+}
+
+.buttonDivOrder {
+    text-align: center;
+    margin-top: 80px !important;
+}
+
+.orderNowButton {
+    background-color: #D11242 !important;
+    border: 1px solid #D11242 !important;
+    color: white !important;
+    font-family: 'Cormorant Garamond', serif !important;
+    font-size: 26px !important;
+    font-weight: 700 !important;
+    text-transform: none !important;
+    margin: auto !important;
+    padding-left: 35px !important;
+    padding-right: 35px !important;
+}
